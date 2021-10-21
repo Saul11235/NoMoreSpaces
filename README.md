@@ -34,7 +34,10 @@ Go to your working directory and execute  <code>NoMoreSpaces</code>, if you want
 
 Ve a tu directorio de trabajo y ejecuta `NoMoreSpaces`, para continuar ingresa la llave aleatoria, para renombrar **TODOS LOS ARCHIVOS Y CARPETAS** en tu directorio de trabajo, (incluidas las subcarpetas).
 
-![Alt Text](https://media3.giphy.com/media/PjgwfaQV5OrFSD8md9/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/PjgwfaQV5OrFSD8md9/giphy.gif" alt="animated" />
+</p>
+
 
 # Final notes
 
